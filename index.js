@@ -1,7 +1,7 @@
 'use strict';
 
 const cakeRecipes = require("./cake-recipes.json");
-const prompt = require(prompt-sync)();
+const prompt = require("prompt-sync")();
 
 // Your functions here
 
